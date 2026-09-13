@@ -5,6 +5,8 @@ Este el mismo código que subí pocos días después a mi drive sin prácticamen
 
 La única modificación respecto al original es que agregué un "delay (155)" en la línea 4557 para que sea jugable, de lo contrario los fantasmas se moverían demasiado rápido.
 
+Se juega con WASD.
+
 Archivo original: https://drive.google.com/file/d/1Pr-XHbZObf79jc0e2QFkyq_Z3_jbGVOo/view?usp=sharing
 
 Subido en 2019, Google tomó como modificación cuando cambié su status a público precisamente para poder compartirlo acá, adjunto capturas para mostrar que no toqué el código en ese tiempo
